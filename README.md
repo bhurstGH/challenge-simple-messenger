@@ -1,4 +1,5 @@
-#Purpose
+# Purpose
+
 A challenge to create a simple messenger app in 1.5 hours. 
 
 Node/Express/EJS/Socket.io.
@@ -9,6 +10,6 @@ I also probably cost myself a little time thinking in EJS. It wasn't necessary f
 
 With a little more time and effort, I would change the styling and probably add some IRC-like functionality. `/nick [new nick name]` to change the username from Guest###, `/me` actions, private messages, things of that nature.
 
-#Useage
+# Useage
 
 As easy as running `npm start` from the command line and connecting to localhost:8000.
