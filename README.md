@@ -2,7 +2,7 @@
 
 A challenge to create a simple messenger app in 1.5 hours. 
 
-Node/Express/EJS/Socket.io.
+Node/Express/EJS/Socket.io and nodemon were used here.
 
 It ended up taking me around 2-2.5 hours to workout kinks, refreshing my memory on some basics, and becoming familiar with some of socket.io's documentation. It was actually fairly easy to use once I got my head around a few things I just am not very used to.
 
