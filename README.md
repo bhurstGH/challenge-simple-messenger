@@ -13,3 +13,5 @@ With a little more time and effort, I would change the styling and probably add 
 # Useage
 
 As easy as running `npm start` from the command line and connecting to localhost:8000.
+
+Every open instance/browser tab connected to localhost will create a new user with a randomized guest name. You can test by opening two separate windows and having a little chat with yourself. :)
